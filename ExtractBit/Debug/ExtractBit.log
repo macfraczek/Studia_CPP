@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ExtractBit.cpp
+c:\users\macfr\source\repos\studia_cpp\extractbit\extractbit.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ExtractBit.vcxproj -> C:\Users\macfr\source\repos\Studia_CPP\Debug\ExtractBit.exe
