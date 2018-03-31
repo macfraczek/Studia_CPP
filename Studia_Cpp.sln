@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExtractBit", "ExtractBit\Ex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChartInConsole", "ChartInConsole\ChartInConsole.vcxproj", "{1CC3850F-BA05-41AD-9394-799309F1CDCD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectionPoint", "ProjectionPoint\ProjectionPoint.vcxproj", "{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{1CC3850F-BA05-41AD-9394-799309F1CDCD}.Release|x64.Build.0 = Release|x64
 		{1CC3850F-BA05-41AD-9394-799309F1CDCD}.Release|x86.ActiveCfg = Release|Win32
 		{1CC3850F-BA05-41AD-9394-799309F1CDCD}.Release|x86.Build.0 = Release|Win32
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Debug|x64.ActiveCfg = Debug|x64
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Debug|x64.Build.0 = Debug|x64
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Debug|x86.Build.0 = Debug|Win32
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Release|x64.ActiveCfg = Release|x64
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Release|x64.Build.0 = Release|x64
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Release|x86.ActiveCfg = Release|Win32
+		{C062BD3F-EA39-4C4D-89E4-7B75EB49392F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
